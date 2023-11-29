@@ -1,12 +1,12 @@
 {
   "name": "@devhatt/eslint-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Devhat projects.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "hatcoders/eslint-config-devhat"
+    "url": "https://github.com/devhatt/devhatt-eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
