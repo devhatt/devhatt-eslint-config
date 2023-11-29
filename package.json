@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/devhatt/devhatt-eslint-config"
+    "url": "git+https://github.com/devhatt/devhatt-eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
